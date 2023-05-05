@@ -1,6 +1,6 @@
 # Olá, eu sou o Lourenço!
 
-- 🔭 Hoje trabalho como desenvolvedor back-end (Node.js/Express.js) na UFMG iJunior Soluções Digitais
+- 🔭 Hoje trabalho como desenvolvedor Javascript na SYDLE
 - 📖 Curso o 6° período de Ciência da Computação na UFMG
 - 🌱 Atualmente estou estudando TypeScript
 - 📫 Contate-me no: lourencomonteiro@ufmg.br
