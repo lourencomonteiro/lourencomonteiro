@@ -1,8 +1,7 @@
 # Olá, eu sou o Lourenço!
 
 - 🔭 Hoje trabalho como desenvolvedor trainee na SYDLE
-- 📖 Curso o 6° período de Ciência da Computação na UFMG
-- 🌱 Atualmente estou estudando TypeScript
+- 📖 Curso o 7° período de Ciência da Computação na UFMG
 - 📫 Contate-me no: lourencomonteiro@ufmg.br
 
 <div>
