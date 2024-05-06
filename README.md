@@ -1,7 +1,7 @@
 # Olá, eu sou o Lourenço!
 
-- 🔭 Hoje trabalho como desenvolvedor trainee na SYDLE
-- 📖 Curso o 7° período de Ciência da Computação na UFMG
+- 🔭 Hoje trabalho como Intern Developer no Inter
+- 📖 Curso o 8° período de Ciência da Computação na UFMG
 - 📫 Contate-me no: lourencomonteiro@ufmg.br
 
 <div>
